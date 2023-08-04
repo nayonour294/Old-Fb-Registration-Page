@@ -1,0 +1,118 @@
+@media only screen and (max-width: 810px) {
+	.header-section .w-20 {
+		width: 100%;
+	}
+	
+	.header-section .facebook-logo {
+		text-align: center;
+		margin-bottom: 30px;
+	}
+	
+	.header-section .w-80 {
+		width: 90%;
+	}
+	
+	.body-section .w-50 {
+		width: 100%;
+	}
+	
+	.body-section .people-connted h3 {
+		font-size: 25px;
+		margin-top: 0;
+		line-height: 40px;
+		text-align: center;
+	}
+	
+	.body-section .people-connted img {
+	margin-left: 30px;
+	width: 90%;
+	}
+	
+	.body-section .right-heade h1 {
+	font-size: 35px;
+	text-align: center;
+	margin-top: 30px;
+	}
+	
+	.body-section .right-heade p {
+	font-size: 20px;
+	text-align: center;
+	margin-bottom: 35px;
+	}
+	
+	.body-section .registration-section .fname-lname-space .name-spacing {
+	padding-right: 0;
+	}
+	
+	.body-section .form-section input[type="text"],
+	.body-section .form-section input[type="email"],
+	.body-section .form-section input[type="password"] {
+		padding: 5px;
+		width: 90%;
+		margin: auto;
+		font-size: 20px;
+		margin-bottom: 15px;
+	}
+	
+	.body-section .form-section .birth-text {
+		margin-top: 30px;
+		font-size: 22px;
+	}
+	
+	
+	.body-section .birthday-section select {
+		padding: 5px 10px;
+		font-size: 15px;
+	}
+	
+	.body-section .form-section .gender-text {
+		font-size: 22px;
+		margin-bottom: 10px;
+	}
+	
+	.body-section .form-section .gender-section label {
+		font-size: 20px;
+	}
+	
+	.body-section .form-section .policy-text {
+		font-size: 12px;
+		margin: 20px 0;
+	}
+	
+	.body-section .form-section .sign-up-section input[type="submit"] {
+	display: block;
+	width: 35%;
+	margin: auto;
+	padding: 10px 0px;
+	font-size: 20px;
+	}
+	
+	.body-section .form-section .create-page p {
+	font-size: 14px;
+	text-align: center;
+	margin-top: 30px;
+	}
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

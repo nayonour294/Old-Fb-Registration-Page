@@ -1,0 +1,300 @@
+body {
+    /* box-sizing: border-box;
+    outline-style: none;
+    border: none; */
+    margin: 0;
+    font-family: verdana;
+}
+
+/*====================================================================*/
+/*                     Common area start                                 */
+/*====================================================================*/
+
+.w-20 {
+    float: left;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.w-80 {
+    float: right;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.w-35 {
+    float: left;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.w-30 {
+    float: left;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.w-50 {
+    float: left;
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 50%;
+}
+
+.container {
+    overflow: hidden;
+    box-sizing: border-box;
+    width: 90%;
+    margin: auto;
+}
+
+/*====================================================================*/
+/*                     Common area End                                 */
+/*====================================================================*/
+
+/*====================================================================*/
+/*                     Header area start                                 */
+/*====================================================================*/
+
+.header-section {
+    background: #3d5b99;
+    overflow: hidden;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.header-section .w-80 label,
+.header-section .w-80 input {
+    display: block;
+    font-size: 16px;
+}
+
+.header-section .facebook-logo {
+    margin-top: 10px;
+}
+
+.header-section .w-80 input[type="email"],
+.header-section .w-80 input[type="password"] {
+    margin-top: 10px;
+    border: 2px solid #21346c;
+    box-sizing: border-box;
+    padding: 6px;
+    padding-right: 45px;
+    margin-right: 20px;
+}
+
+.header-section .w-80 input[type="password"] {
+    margin-bottom: 5px;
+}
+
+.header-section .w-80 input[type="submit"] {
+    margin-top: 29px;
+    background: #4267b2;
+    border: 2px solid #264477;
+    color: #fff;
+    display: inline-block;
+    font-weight: bold;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.header-section .w-80 label {
+    color: #fff;
+}
+
+.header-section .w-80 a {
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+/*====================================================================*/
+/*                     Header area End                                 */
+/*====================================================================*/
+
+/*====================================================================*/
+/*                     body area start                                 */
+/*====================================================================*/
+
+.body-section {
+    padding: 45px 20px;
+    background-image: linear-gradient(#fdfdfd, #e4e7f1);
+    box-sizing: border-box;
+}
+
+.body-section .people-connted h3 {
+    font-size: 30px;
+    font-family: arial;
+    color: #183b5c;
+    line-height: 45px;
+    margin-top: 15;
+}
+
+.body-section .people-connted img {
+    margin-left: 22px;
+}
+
+.body-section .right-heade h1 {
+    font-size: 47px;
+    margin: 0;
+    color: #323232;
+    word-spacing: -2px;
+}
+
+.body-section .right-heade p {
+    font-size: 25px;
+    color: #210d19;
+    line-height: 14px;
+    margin-bottom: 45px;
+}
+
+.body-section .form-section input[type="text"],
+.body-section .form-section input[type="email"],
+.body-section .form-section input[type="password"] {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 2px solid #b8c3d5;
+    font-size: 25px;
+    color: #8b939b;
+}
+
+.body-section .registration-section .fname-lname-space {
+    overflow: hidden;
+}
+
+.body-section .registration-section .fname-lname-space .name-spacing {
+    padding-right: 15px;
+}
+
+.body-section .form-section .birth-text {
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    color: #81858d;
+    font-family: arial;
+}
+
+.body-section .birthday-section select {
+    padding: 10px 20px;
+    border: 2px solid #b8c3d5;
+    font-size: 20px;
+    color: #81858d;
+    background: #fff;
+}
+
+.body-section .form-section .gender-text {
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-size: 25px;
+    color: #81858d;
+    font-family: arial;
+}
+
+.body-section .form-section .gender-section label {
+    font-size: 25px;
+    color: #827d7d;
+}
+
+.body-section .form-section .policy-text {
+    color: #8b939b;
+    font-size: 14px;
+    margin: 30px 0;
+}
+
+.body-section .form-section .policy-text a {
+    text-decoration: none;
+}
+
+.body-section .form-section .policy-text a:hover {
+    text-decoration: underline;
+}
+
+.body-section .form-section .sign-up-section input[type="submit"] {
+    font-weight: bold;
+    padding: 15px 100px;
+    font-size: 25px;
+    background-image: linear-gradient(#74b762, #386029);
+    color: #fff;
+    border-radius: 10px;
+    border: 2px outset#2f6313;
+    margin-bottom: 10px;
+}
+
+.body-section .form-section .create-page p {
+    font-size: 15px;
+    color: #8b939b;
+}
+
+.body-section .form-section .create-page a {
+    text-decoration: none;
+    color: #0066cc;
+    margin-bottom: 40px;
+}
+
+.body-section .form-section .create-page a:hover {
+    text-decoration: underline;
+}
+
+/*====================================================================*/
+/*                     Body area start                                 */
+/*====================================================================*/
+
+/*====================================================================*/
+/*                     Footer area start                                 */
+/*====================================================================*/
+
+.footer-section .language-section ul {
+    list-style-type: none;
+    margin: 20px -20px;
+}
+
+.footer-section .language-section {
+    overflow: hidden;
+}
+
+.footer-section .language-section ul li {
+    float: left;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.footer-section .language-section ul a {
+    text-decoration: none;
+}
+
+.footer-section .language-section ul a:hover {
+    text-decoration: underline;
+}
+
+.footer-section .support-section ul {
+    list-style-type: none;
+    margin: 20px -20px;
+}
+
+.footer-section .support-section {
+    overflow: hidden;
+}
+
+.footer-section .support-section ul li {
+    float: left;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.footer-section .support-section ul a {
+    text-decoration: none;
+}
+
+.footer-section .support-section ul a:hover {
+    text-decoration: underline;
+}
+
+/*====================================================================*/
+/*                     Footer area start                                 */
+/*====================================================================*/
